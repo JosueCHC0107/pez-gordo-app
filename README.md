@@ -1,2 +1,3 @@
-# pez-gordo-app
-Pez Gordo: entrenador de póker 6-max (PWA compilada)
+# Pez Gordo
+
+Versión web instalable (PWA) del entrenador de póker 6-max. Solo contiene archivos compilados.
